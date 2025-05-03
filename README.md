@@ -73,9 +73,7 @@ MIT — feel free to use, share, and build on it.
 
 Want to see it in action? Here's a preview of the chatbot interface:
 
-![Mistral Chatbot Preview](https://github.com/sam170203/mistral-chatbot/assets/mistral.png)
-
-> 💡 Tip: Replace the image URL above with your own uploaded screenshot link from GitHub or an image hosting service like Imgur.
+![Mistral Chatbot Preview](https://github.com/sam170203/Mistral-Chatbot/blob/main/mistral.png)
 
 ---
 
